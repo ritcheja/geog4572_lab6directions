@@ -12,7 +12,7 @@
 
 For this lab, we will explore how to work with Agisoft Photoscan in order to use Structure from Motion (SfM) to create a 3-D model from a series of still photos. As introduced in today's lecture, SfM identifies identical features that appear in multiple photos. Measuring how for the object has moved from one photo to the next, the software is able to identify how far the object is from the camera distance. This distance is used to generate depth and therefore, a 3-D model. This technology can be used to generate high resolution aerial maps, or very high detail models of a specific object. For this lab, we will be creating a 3-D model of the Quest statue that is in front of Strand Hall.
 
-![Quest: ](img\IMG-2206.jpg)
+![Quest: ](img/IMG-2206.jpg)
 
 ![IMG-2207](img\IMG-2207.JPG)
 
