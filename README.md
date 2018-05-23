@@ -14,7 +14,7 @@ For this lab, we will explore how to work with Agisoft Photoscan in order to use
 
 ![Quest: ](img/IMG-2206.jpg)
 
-![IMG-2207](img\IMG-2207.JPG)
+![IMG-2207](img/IMG-2207.JPG)
 
 
 
